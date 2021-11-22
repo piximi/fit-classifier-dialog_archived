@@ -1,3 +1,5 @@
+# DEPRECATED
+
 # @piximi/fit-classifier-dialog
 
 Piximi’s `FitClassifierDialog` component
